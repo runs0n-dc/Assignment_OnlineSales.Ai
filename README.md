@@ -1,5 +1,5 @@
 # Assignment_OnlineSales.Ai
-All three TASKS have a png image to show the code and o/p .
+INFORMATION ABOUT THE INDIVIDUAL TASKS IS AS FOLLOWS:
 
 Task-1: 
 * Task 1 folder contains a .sql file which can be run on MySQL Workbenchbench Application after importing the respective CSV files of the 3 tables given.
