@@ -11,6 +11,8 @@ Task-2:
 *  It also contains a .png which is a SCREENSHOT to show the running code and the o/p generated .(.png need to be downloaded from Github to view first).
 
 Task-3:
-*
+* Task 3 contains a file code_task3_jupyterNotebook.ipynb which contains the corrected code with the comments.
+* It also contains a .png which is a SCREENSHOT to show the running code and the o/p generated .(.png need to be downloaded from Github to view first).
+* It also contains a .txt file that contains the actual python code written after debugging the errors.
 
 
