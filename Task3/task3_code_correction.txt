@@ -1,0 +1,15 @@
+def compute(n):
+    if n < 10:
+        out = n ** 2
+    elif n < 20:
+        out = 1
+        for i in range(1, n-9): #here the range changed to n-9 so for i/p: n=15 we run loop (15-9=6)
+                                 # i.e from 1 till less than 6(i.e. till 5)
+                                   #so we get 5! ans
+            out *= i 
+    else:
+        lim = n - 19   #here range changed to n-19 so for i/p: n=25, lim=6 then out=((6*6)-6)/2 => out=15
+        out = lim * lim  #decreasing from lim =n-20 to n-19 to retrieve he complete range in formula of sum of First N natural numbers
+        out = out - lim   #numbers
+        out = out / 2 
+    print(out)
